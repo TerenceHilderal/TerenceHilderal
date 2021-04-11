@@ -19,7 +19,7 @@ I master both React.js and its context API as well as Node.js via express and mo
 Really like to work with node.js it offers a lot of possibility , i am always amazed at what i keep learning.
 
 I offer you my collaboration on your existing or future web projects.
-Flexible by nature with a great thirst for learning and improving my skills, I am for remote missions as freelance or cdi.
+Flexible by nature with a great thirst for learning and improving my skills, i am available for remote missions as freelance or cdi.
 
 😄 Or just have a chat or go for a coffee, or a basketball game? 😄
 
