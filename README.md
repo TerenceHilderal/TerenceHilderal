@@ -28,6 +28,9 @@ Flexible by nature with a great thirst for learning and improving my skills, i a
 - 🌱 I’m currently learning Typescript , TDD , clean code , clean architecture.
 
 
+✨ My Skills ✨ 
+
+
 ![Sans titre2](https://user-images.githubusercontent.com/56540121/114324160-ebae5500-9b28-11eb-826c-04d5de01f7e2.jpeg)
 
 
@@ -37,8 +40,6 @@ Flexible by nature with a great thirst for learning and improving my skills, i a
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerenceHilderal&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerenceHilderal&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerenceHilderal&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerenceHilderal&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
