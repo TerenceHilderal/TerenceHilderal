@@ -40,6 +40,7 @@ Flexible by nature with a great thirst for learning and improving my skills, i a
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerenceHilderal&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerenceHilderal&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerenceHilderal&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerenceHilderal&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
