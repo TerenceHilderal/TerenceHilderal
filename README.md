@@ -24,17 +24,13 @@ Here are some ideas to get you started:
 
 
 
-![node](https://user-images.githubusercontent.com/56540121/114323065-c23efa80-9b23-11eb-8bf4-e003a4008ccc.png)
-![react](https://user-images.githubusercontent.com/56540121/114323105-ffa38800-9b23-11eb-9e52-dcbe266d7786.png)
+
+
 
 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerenceHilderal&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerenceHilderal&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
