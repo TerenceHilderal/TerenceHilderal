@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi i'm Terence 👋
 
 <!--
 **TerenceHilderal/TerenceHilderal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerenceHilderal&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=TerenceHilderal&color=green&style=plastic)
+
 
 
 
