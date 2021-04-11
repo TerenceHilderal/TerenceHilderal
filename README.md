@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ✨ Developer specializing in the javascript ecosystem ✨ 
 I master both React.js and its context API as well as Node.js via express and mongoDB.
-Really like to work with node.js it offers a lot of possibility , i am always amazed at what i keep learning
+Really like to work with node.js it offers a lot of possibility , i am always amazed at what i keep learning.
+
 I offer you my collaboration on your existing or future web projects.
 Flexible by nature with a great thirst for learning and improving my skills, I am for remote missions as freelance or cdi.
 
