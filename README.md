@@ -28,7 +28,7 @@ Flexible by nature with a great thirst for learning and improving my skills, i a
 - 🌱 I’m currently learning Typescript , TDD , clean code , clean architecture.
 
 
-![Sans titre](https://user-images.githubusercontent.com/56540121/114324105-abe76d80-9b28-11eb-82ed-603a03a5a4e2.jpeg)
+![Sans titre2](https://user-images.githubusercontent.com/56540121/114324160-ebae5500-9b28-11eb-826c-04d5de01f7e2.jpeg)
 
 
 
