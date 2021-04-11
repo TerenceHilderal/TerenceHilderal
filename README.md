@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 -->
 ✨ Developer specializing in the javascript ecosystem ✨ 
-I master both React.js and its context API as well as Node.js via express and mongoDB.
-Really like to work with node.js it offers a lot of possibility , i am always amazed at what i keep learning.
+I define myself as a BACKEND Node.js developer but i also master both React.js and its context API .
+Really like to work with node.js it offers a lot of possibility , i am always amazed by what i'm learning
+
 
 I offer you my collaboration on your existing or future web projects.
 Flexible by nature with a great thirst for learning and improving my skills, i am available for remote missions as freelance or cdi.
@@ -27,6 +28,7 @@ Flexible by nature with a great thirst for learning and improving my skills, i a
 - 🌱 I’m currently learning Typescript , TDD , clean code , clean architecture.
 
 
+![Sans titre](https://user-images.githubusercontent.com/56540121/114324105-abe76d80-9b28-11eb-82ed-603a03a5a4e2.jpeg)
 
 
 
