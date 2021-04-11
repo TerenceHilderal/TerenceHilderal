@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 
 ✨ My Skills ✨
+
+
+
+
 ![node](https://user-images.githubusercontent.com/56540121/114323065-c23efa80-9b23-11eb-8bf4-e003a4008ccc.png)
 ![react](https://user-images.githubusercontent.com/56540121/114323105-ffa38800-9b23-11eb-9e52-dcbe266d7786.png)
 
