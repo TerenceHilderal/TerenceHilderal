@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -->
 ✨ Developer specializing in the javascript ecosystem ✨ 
-I define myself as a BACKEND Node.js developer but i also master both React.js and its context API .
+I define myself as a Frontend developer but i also master both Node.js and Express.js .
 Really like to work with node.js it offers a lot of possibility , i am always amazed by what i'm learning
 
 
