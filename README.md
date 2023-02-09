@@ -27,6 +27,7 @@ Flexible by nature with a great thirst for learning and improving my skills, i a
 - 🔭 Looking for a backend dev ?? HERE I AM  !!
 - 🌱 I’m currently learning TDD , clean code , clean architecture.
 
+https://terencehdl-dev.vercel.app/
 
 
 
