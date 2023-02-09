@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 
 -->
-✨ Developer specializing in the javascript ecosystem ✨ 
-I define myself as a Node.js developer .
+✨ Node.js developer  ✨ 
+ 
 Really like to work with node.js it offers a lot of possibility , i am always amazed by what i'm learning
 
 
@@ -24,8 +24,8 @@ Flexible by nature with a great thirst for learning and improving my skills, i a
 
 😄 Or just have a chat or go for a coffee, or a basketball game? 😄
 
-- 🔭 I’m currently working on my personals projects ( devmania and my portfolio)
-- 🌱 I’m currently learning Typescript , TDD , clean code , clean architecture.
+- 🔭 Looking for a backend dev ?? HERE I AM  !!
+- 🌱 I’m currently learning TDD , clean code , clean architecture.
 
 
 
