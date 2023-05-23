@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 
 
 -->
-✨ Node.js developer  ✨ 
+♾️  Devops engineer   ♾️ 
  
-Really like to work with node.js it offers a lot of possibility , i am always amazed by what i'm learning
 
 
 I offer you my collaboration on your existing or future web projects.
@@ -24,8 +23,8 @@ Flexible by nature with a great thirst for learning and improving my skills, i a
 
 😄 Or just have a chat or go for a coffee, or a basketball game? 😄
 
-- 🔭 Looking for a backend dev ?? HERE I AM  !!
-- 🌱 I’m currently learning TDD , clean code , clean architecture.
+- 🔭 Looking for a Devops engineer ? 
+- 🌱 I’m currently learning Linux admin and NGINX.
 
 https://terencehdl-dev.vercel.app/
 
